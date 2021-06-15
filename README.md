@@ -1,4 +1,4 @@
-# TrialREADME
+# RabbitPets
 
 This a rabbit project describing the breeds, prices, regions found and colors.
 
